@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <shortcut
+        android:shortcutId="planets"
+        android:enabled="true"
+        android:icon="@drawable/shortcut_planets"
+        android:shortcutShortLabel="@string/shortcut_planets_short"
+        android:shortcutLongLabel="@string/shortcut_planets_long">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="solarfly://shortcut/planets"
+            android:targetClass="com.rihan.solarflyoffical.MainActivity"
+            android:targetPackage="com.rihan.solarflyoffical" />
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="achievements"
+        android:enabled="true"
+        android:icon="@drawable/shortcut_achivements"
+        android:shortcutShortLabel="@string/shortcut_achievements_short"
+        android:shortcutLongLabel="@string/shortcut_achievements_long">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="solarfly://shortcut/achievements"
+            android:targetClass="com.rihan.solarflyoffical.MainActivity"
+            android:targetPackage="com.rihan.solarflyoffical" />
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="profile"
+        android:enabled="true"
+        android:icon="@drawable/shortcut_profile"
+        android:shortcutShortLabel="@string/shortcut_profile_short"
+        android:shortcutLongLabel="@string/shortcut_profile_long">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="solarfly://shortcut/profile"
+            android:targetClass="com.rihan.solarflyoffical.MainActivity"
+            android:targetPackage="com.rihan.solarflyoffical" />
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="stages"
+        android:enabled="true"
+        android:icon="@drawable/shortcut_stages"
+        android:shortcutShortLabel="@string/shortcut_stages_short"
+        android:shortcutLongLabel="@string/shortcut_stages_long">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="solarfly://shortcut/stages"
+            android:targetClass="com.rihan.solarflyoffical.MainActivity"
+            android:targetPackage="com.rihan.solarflyoffical" />
+    </shortcut>
+
+</shortcuts>

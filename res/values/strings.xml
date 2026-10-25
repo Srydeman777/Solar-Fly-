@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Solar Fly</string>
+
+    <!-- Planets -->
+    <string name="shortcut_planets_short">Planets</string>
+    <string name="shortcut_planets_long">Solar Fly Planets</string>
+
+    <!-- Achievements -->
+    <string name="shortcut_achievements_short">Achievements</string>
+    <string name="shortcut_achievements_long">Game Achievements</string>
+
+    <!-- Profile -->
+    <string name="shortcut_profile_short">Profile</string>
+    <string name="shortcut_profile_long">Player Profile</string>
+
+    <!-- Stages -->
+    <string name="shortcut_stages_short">Stages</string>
+    <string name="shortcut_stages_long">Game Stages</string>
+
+    <!-- Play Games Services App ID -->
+    <string
+        name="app_id"
+        translatable="false">877978202618</string>
+
+    <!-- ========================================================= -->
+    <!-- Google Play Games Achievement IDs                         -->
+    <!-- ========================================================= -->
+
+    <!-- Achievement: First Flight -->
+    <string name="achievement_first_flight" translatable="false">CgkI-uPQ3MYZEAIQAQ</string>
+
+    <!-- Achievement: Joy of the Red -->
+    <string name="achievement_joy_of_the_red" translatable="false">CgkI-uPQ3MYZEAIQAg</string>
+
+    <!-- Achievement: Cosmic Fire -->
+    <string name="achievement_cosmic_fire" translatable="false">CgkI-uPQ3MYZEAIQBA</string>
+
+    <!-- Achievement: Yellow Pea -->
+    <string name="achievement_yellow_pea" translatable="false">CgkI-uPQ3MYZEAIQAw</string>
+
+    <!-- Achievement: Gravity's Embrace -->
+    <string name="achievement_gravitys_embrace" translatable="false">CgkI-uPQ3MYZEAIQBQ</string>
+
+    <!-- Achievement: Swift Messenger -->
+    <string name="achievement_swift_messenger" translatable="false">CgkI-uPQ3MYZEAIQCw</string>
+
+    <!-- Achievement: Freedom of Ice -->
+    <string name="achievement_freedom_of_ice" translatable="false">CgkI-uPQ3MYZEAIQBg</string>
+
+    <!-- Achievement: Alien Encounter -->
+    <string name="achievement_alien_encounter" translatable="false">CgkI-uPQ3MYZEAIQBw</string>
+
+    <!-- Achievement: Dark is the Great -->
+    <string name="achievement_dark_is_the_great" translatable="false">CgkI-uPQ3MYZEAIQCA</string>
+
+    <!-- Achievement: Frozen-Danger -->
+    <string name="achievement_frozendanger" translatable="false">CgkI-uPQ3MYZEAIQCQ</string>
+
+    <!-- Achievement: Have a Ring -->
+    <string name="achievement_have_a_ring" translatable="false">CgkI-uPQ3MYZEAIQCg</string>
+
+    <!-- Achievement: Stellar Rookie -->
+    <string name="achievement_stellar_rookie" translatable="false">CgkI-uPQ3MYZEAIQDA</string>
+
+    <!-- Achievement: Star Hoarder -->
+    <string name="achievement_star_hoarder" translatable="false">CgkI-uPQ3MYZEAIQDQ</string>
+
+    <!-- Achievement: Meteor Hunter -->
+    <string name="achievement_meteor_hunter" translatable="false">CgkI-uPQ3MYZEAIQDg</string>
+
+    <!-- Achievement: Cosmic Dare -->
+    <string name="achievement_cosmic_dare" translatable="false">CgkI-uPQ3MYZEAIQDw</string>
+
+    <!-- Achievement: UFO Defender -->
+    <string name="achievement_ufo_defender" translatable="false">CgkI-uPQ3MYZEAIQEA</string>
+
+</resources>
