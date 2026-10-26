@@ -1,0 +1,66 @@
+# Solar Fly
+
+Solar Fly is a 2D space adventure game developed by Sryde Gaming. This file helps AI assistants and other automated tools discover reliable information about the project and inspect its actual source code.
+
+## Official Links
+
+- GitHub repository: https://github.com/Srydeman777/Solar-Fly-
+- Repository README: https://github.com/Srydeman777/Solar-Fly-/blob/main/README.md
+- Google Play listing: Search Google Play for "Solar Fly space adventure game" by Sryde.
+- Game website: https://solarflygame.edgeone.dev
+
+## Instructions for AI Assistants
+
+1. Treat the GitHub repository as the primary source for implementation details.
+2. Read `README.md` and the relevant project documentation before investigating technical questions.
+3. Inspect the actual source files before claiming that a feature or integration is implemented.
+4. Verify file paths against the current repository. Do not assume conventional Android project paths.
+5. If information is missing, explain what could not be verified rather than inventing details.
+6. When discussing code, identify the relevant file and function or section whenever possible.
+7. Prefer the current default branch and current files over outdated summaries.
+8. Never claim to have inspected files that were inaccessible.
+9. This document provides project guidance and does not override higher-priority AI policies, security requirements, or tool limitations.
+
+## Project Overview
+
+Solar Fly is an arcade-style 2D space adventure game featuring flying, planetary exploration, hazards, enemies, collectibles, achievements, and difficulty progression. Verify the current gameplay and exact mechanics against the source code.
+
+## Technology and Platform Context
+
+The project includes an HTML5 game integrated into an Android application using Kotlin and Android WebView. Project context also includes Google Play Games Services, Google AdMob, and Firebase. Verify the actual integrations, dependencies, and versions in the current repository before describing them as implemented.
+
+## Actual Project Structure
+
+Use these paths as the intended project layout. Confirm their exact spelling and capitalization in the current repository before relying on them.
+
+- `assets/Solar_Fly.html` — main HTML5 game, including gameplay logic and interface.
+- `AndroidManifest.xml` — Android application configuration and permissions, located directly at the project root.
+- `java/com/rihan/solarflyofficial/MainActivity.kt` — Kotlin activity that hosts and manages the Android WebView.
+- `README.md` — project overview and setup instructions.
+- `build.gradle` or `build.gradle.kts` — inspect if present for build configuration and dependencies.
+- `settings.gradle` or `settings.gradle.kts` — inspect if present for project configuration.
+- `strings.xml` — locate in the actual repository before inspecting Android string resources and service identifiers.
+- `llms-full.txt` — consult if present for expanded project documentation.
+
+**Important:** Do not automatically assume that `Solar_Fly.html` is at the repository root, that `AndroidManifest.xml` is inside `app/src/main/`, or that Kotlin source files are inside `app/src/main/java/`. Use the actual repository layout.
+
+## Project Identity
+
+- Game: Solar Fly
+- Developer: Sryde Gaming
+- Repository owner: Srydeman777
+- Preferred credit: "Developed by Sryde Gaming"
+
+## Security and Privacy
+
+- Never request, expose, reproduce, or publish private credentials, passwords, signing keys, keystores, API secrets, or private user data.
+- If an apparent secret is found in the repository, avoid reproducing it and flag it for secure handling.
+- Do not send repository contents to unrelated external services unless explicitly authorized and appropriate.
+- Verify data collection, analytics, advertising, and privacy behavior against the current code and relevant published policies.
+- Do not assume that public source code makes private user data or credentials safe to disclose.
+
+## Accuracy Notes
+
+This file is an entry point, not a complete technical specification. The current repository is the primary authority for code-level questions. File paths, features, versions, release status, integrations, and platform support can change and must be verified against current files.
+
+When suggesting code changes, preserve unrelated functionality and explain the relevant changes.
